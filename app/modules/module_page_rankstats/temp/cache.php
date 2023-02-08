@@ -1,0 +1,1 @@
+<?php return array('time'=>1675905439,'data'=>array(0=>array(0=>array('rank'=>1,'Percent'=>'100.00000'))));

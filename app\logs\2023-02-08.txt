@@ -1,0 +1,316 @@
+
+2023-02-08 00:28:49 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/page/custom/install/index.php 
+ MESSAGE - Uncaught Error: Class "mysqli" not found in /home/stenpals/Desktop/web/app/page/custom/install/index.php:238
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Db.php(242): require()
+#1 /home/stenpals/Desktop/web/app/ext/Db.php(116): app\ext\Db->get_db_options()
+#2 /home/stenpals/Desktop/web/index.php(139): app\ext\Db->__construct()
+#3 {main}
+  thrown 
+ LINE - 238
+2023-02-08 00:30:34 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/page/custom/install/index.php 
+ MESSAGE - Uncaught Error: Class "mysqli" not found in /home/stenpals/Desktop/web/app/page/custom/install/index.php:238
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Db.php(242): require()
+#1 /home/stenpals/Desktop/web/app/ext/Db.php(116): app\ext\Db->get_db_options()
+#2 /home/stenpals/Desktop/web/index.php(139): app\ext\Db->__construct()
+#3 {main}
+  thrown 
+ LINE - 238
+2023-02-08 00:31:50 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/page/custom/install/index.php 
+ MESSAGE - Uncaught Error: Class "mysqli" not found in /home/stenpals/Desktop/web/app/page/custom/install/index.php:238
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Db.php(242): require()
+#1 /home/stenpals/Desktop/web/app/ext/Db.php(116): app\ext\Db->get_db_options()
+#2 /home/stenpals/Desktop/web/index.php(139): app\ext\Db->__construct()
+#3 {main}
+  thrown 
+ LINE - 238
+2023-02-08 00:36:03 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/page/custom/install/index.php 
+ MESSAGE - Uncaught Error: Class "mysql" not found in /home/stenpals/Desktop/web/app/page/custom/install/index.php:238
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Db.php(242): require()
+#1 /home/stenpals/Desktop/web/app/ext/Db.php(116): app\ext\Db->get_db_options()
+#2 /home/stenpals/Desktop/web/index.php(139): app\ext\Db->__construct()
+#3 {main}
+  thrown 
+ LINE - 238
+2023-02-08 00:46:46 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/page/custom/install/index.php 
+ MESSAGE - Uncaught Error: Class "mysqli" not found in /home/stenpals/Desktop/web/app/page/custom/install/index.php:238
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Db.php(242): require()
+#1 /home/stenpals/Desktop/web/app/ext/Db.php(116): app\ext\Db->get_db_options()
+#2 /home/stenpals/Desktop/web/index.php(139): app\ext\Db->__construct()
+#3 {main}
+  thrown 
+ LINE - 238
+2023-02-08 01:10:36 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:10:40 - NEW ERROR [8192] 
+ FILE - /home/stenpals/Desktop/web/app/ext/LightOpenID.php 
+ MESSAGE - Optional parameter $params declared before required parameter $update_claimed_id is implicitly treated as a required parameter 
+ LINE - 320
+2023-02-08 01:14:31 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:15:17 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:15:41 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:15:42 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:15:46 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:15:46 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:04 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:04 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:19 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:19 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:24 - NEW ERROR [8192] 
+ FILE - /home/stenpals/Desktop/web/app/ext/LightOpenID.php 
+ MESSAGE - Optional parameter $params declared before required parameter $update_claimed_id is implicitly treated as a required parameter 
+ LINE - 320
+2023-02-08 01:16:28 - NEW ERROR [1] 
+ FILE - /home/stenpals/Desktop/web/app/ext/Graphics.php 
+ MESSAGE - Uncaught TypeError: sizeof(): Argument #1 ($value) must be of type Countable|array, null given in /home/stenpals/Desktop/web/app/ext/Graphics.php:87
+Stack trace:
+#0 /home/stenpals/Desktop/web/app/ext/Graphics.php(87): sizeof()
+#1 /home/stenpals/Desktop/web/index.php(162): app\ext\Graphics->__construct()
+#2 {main}
+  thrown 
+ LINE - 87
+2023-02-08 01:16:28 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:28 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:31 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:16:31 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:02 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:15 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:16 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:18 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:19 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:25 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:25 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:43 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:17:43 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:18:13 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:18:43 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:19:14 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:19:44 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:20:14 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:20:44 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:21:14 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:21:44 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:22:14 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:22:44 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:23:04 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:23:04 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:23:34 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:23:49 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:23:49 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:24:19 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:24:49 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:25:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:25:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:25:40 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:25:40 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:26:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:26:41 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:27:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:27:41 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:28:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:28:41 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:29:11 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:29:41 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:29:54 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:29:54 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:30:24 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:30:54 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:31:24 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:31:55 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:32:25 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:32:55 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
+2023-02-08 01:33:25 - NEW ERROR [2] 
+ FILE - /home/stenpals/Desktop/web/index.php 
+ MESSAGE - session_start(): Failed to read session data: files (path: /var/lib/php/sessions) 
+ LINE - 94
